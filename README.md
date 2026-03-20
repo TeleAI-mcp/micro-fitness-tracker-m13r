@@ -1,2 +1,3 @@
-# micro-fitness-tracker-m13r
+# Micro Fitness Tracker M13R
+
 A fitness and workout tracker for modern development workflows.
